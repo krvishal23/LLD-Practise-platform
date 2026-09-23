@@ -1,0 +1,6 @@
+{
+  "name": "LLD Practice Platform",
+  "description": "Interactive Low-Level Design practice platform with explainable feedback, rubric scoring, attempt history, and domain modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
